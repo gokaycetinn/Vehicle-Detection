@@ -1,20 +1,6 @@
-streamlit==1.50.0
-
-# ML / YOLO
-ultralytics==8.3.252
-torch==2.8.0
-torchvision==0.23.0
-
-# Image processing (SERVER SAFE)
-opencv-python-headless==4.12.0.88
-pillow==11.3.0
-numpy==2.0.2
-
-# Data (Streamlit bazen ister)
-pandas==2.3.3
-
-# Utils
-PyYAML==6.0.3
-requests==2.32.5
-
--c constraints.txt
+streamlit
+ultralytics
+opencv-python-headless
+pillow
+numpy
+pandas
